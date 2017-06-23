@@ -65,6 +65,10 @@
         </exclusion>
       </exclusions>
     </dependency>
+    <dependency>
+    	<groupId>org.apache.aries</groupId>
+    	<artifactId>blueprint.core</artifactId>
+    </dependency>
   </dependencies>
   <repositories>
     <repository>
